@@ -1,7 +1,5 @@
 #! /bin/bash
 
-# remove old version of node.js
-sudo apt remove nodejs -y
 # update repositories
 sudo apt update && sudo apt upgrade -y
 # curl installation
