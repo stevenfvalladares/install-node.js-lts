@@ -1,9 +1,9 @@
 <img alt="node.js logo" src="./logos/nodejs.svg" width="150" height="50" />
 
-h1 Installing Node.js LTS version
+Installing Node.js LTS version
 ==============================
 
-h2 CURL installation script
+CURL installation script
 ------------------------
 
 Open a terminal and run the bash script to install CURL.
