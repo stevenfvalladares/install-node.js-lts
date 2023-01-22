@@ -18,31 +18,22 @@ To check the installation of node.js enter the command:
 
 `$ node -v`
 
-* * *
+<img alt="curl project logo" src="./logos/curl-logo.svg" width="150" height="50" />
 
-![curl logo](./logos/curl-logo.svg)
-
-What is CURL?
--------------
+## What is CURL?
 
 curl is used in command lines or scripts to transfer data. curl is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations
 
 [https://curl.se/](https://curl.se/)
 
-* * *
+<img alt="nvm project logo" src="./logos/nvm-logo-color.svg" width="150" height="50" />
 
-![nvm project logo](./logos/nvm-logo-color.svg)
-
-What is nvm?
-------------
+## What is nvm?
 
 nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell. nvm works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and windows WSL.
 
-* * *
+<img alt="npm logo" src="./logos/npm.svg" width="150" height="50" />
 
-![npm project logo](./logos/npm.svg)
+## What is NPM?
 
-What is NPM?
-------------
-
-npm es el sistema de gestión de paquetes por defecto para Node.js, un entorno de ejecución para JavaScript, bajo Artistic License 2.0.
+npm is the default package management system for Node.js, a runtime environment for JavaScript, under the Artistic License 2.0.
