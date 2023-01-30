@@ -8,15 +8,21 @@ CURL installation script
 
 Open a terminal and run the bash script to install CURL.
 
-`$ ./install-curl.sh`
+```
+$ ./install-curl.sh
+```
 
 After running the script close and open a new terminal and enter the following command to finish the installation.
 
-`$ nvm install --lts`
+```
+$ nvm install --lts
+```
 
 To check the installation of node.js enter the command:
 
-`$ node -v`
+```
+$ node -v
+```
 \
 \
 \
